@@ -7,3 +7,5 @@ def answer(a):
 		return True
 def mul(a,b):
 	return a*b//주석
+def choose(a, b):
+	return a+a+b
