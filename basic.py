@@ -6,4 +6,4 @@ def answer(a):
 	if a>0:
 		return True
 def mul(a,b):
-	return a*b
+	return a*b//주석
