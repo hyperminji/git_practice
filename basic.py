@@ -7,3 +7,6 @@ def answer(a):
 		return True
 def mul(a,b):
 	return a*b
+
+def choose(a, b):
+	return a+a+b
