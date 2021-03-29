@@ -5,3 +5,5 @@ def min(a, b):
 def answer(a):
 	if a>0:
 		return True
+def mul(a,b):
+	return a*b
